@@ -1,10 +1,4 @@
 # Xiaomi17PM_MacOSBootloader
-MacOs Bootloader unlocking for the 17 pro max
-================================================================
-  Xiaomi Snapdragon 8 Elite Gen 5 - One-Click Bootloader Unlock
-  macOS + Windows Support
-================================================================
-
 COMPATIBLE DEVICES
 ------------------
 - Theoretically all Xiaomi / Redmi devices with Snapdragon 8 Elite Gen 5
